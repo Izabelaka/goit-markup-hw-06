@@ -937,7 +937,7 @@ margin-bottom: 10px;
 
 .check__input:checked+.check__box {
     background-color: #4A90E2;
-    background-image: url(/images/icon-check.jpg);
+    background-image: url(../images/icon-check.jpg);
 }
 
 /* Focused */
