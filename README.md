@@ -1,1 +1,1 @@
-https://izabelaka.github.io/goit-markup-hw-01/
+https://izabelaka.github.io/goit-markup-hw-06/
